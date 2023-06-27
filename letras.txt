@@ -1,4 +1,4 @@
-Esto es otra cabecera de letras
+Esto es otra cabecera
 aA
 bB
 cC
