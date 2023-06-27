@@ -1,13 +1,13 @@
 Esto es otra cabecera de numeros
-aA
-bB
-cC
-dD
-eE
-fF
-gG
-hH
-iI
+a
+b
+c
+d
+e
+f
+g
+h
+i
 jJ
 kK
 lL
